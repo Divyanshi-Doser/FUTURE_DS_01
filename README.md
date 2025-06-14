@@ -1,7 +1,5 @@
-# FUTURE_DS_01
-# 📊 Social Media Trend Analysis – Task 1 (Future' Intern)
+# 📊 Social Media Trend Analysis
 
-This project was completed as **Task 1** of the **Future' Intern – Data Science & Analytics Internship Program**.  
 The objective was to analyze social media data from multiple platforms to uncover **trending topics**, **user engagement patterns**, and **sentiment distribution** across countries and time.
 
 ---
@@ -41,15 +39,6 @@ To analyze social media posts (from Twitter, Instagram, and Facebook) in order t
 - Use high-performing hashtags to increase reach  
 - Target campaigns to highly active countries  
 - Build platform-specific engagement strategies
-
----
-
-## 🙋‍♀️ About Me
-
-I’m currently a Data Analyst Intern at **Future' Intern**. This project helped me gain hands-on experience in:
-- Cleaning and preparing real-world text data  
-- Performing sentiment-driven analysis  
-- Creating interactive business dashboards in Power BI
 
 ---
 
